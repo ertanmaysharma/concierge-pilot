@@ -22,5 +22,5 @@ python src/main.py
 See `kaggle_writeup.md` for the pitch and architecture. The `src/` folder contains the agent skeletons and tools.
 
 ## Notes
-- No API keys are included. Use environment variables for production credentials and DO NOT commit them.
+- No API keys are included. Use environment variables for production credentials.
 - The MockMCP tool simulates provider interactions for safe local demo/testing.
