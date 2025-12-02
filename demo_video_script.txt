@@ -1,0 +1,8 @@
+ConciergePilot — 3-minute demo script
+
+0:00-0:20 — Problem statement: why concierge tasks benefit from agents.
+0:20-0:50 — Architecture: show architecture.png and describe agents.
+0:50-1:30 — Demo: run `python src/main.py` showing planner and booker.
+1:30-2:10 — Show long-running booking resume via session state.
+2:10-2:40 — Extensibility & deployment options (Cloud Run / Agent Engine).
+2:40-3:00 — Closing: GitHub link and call to action.
